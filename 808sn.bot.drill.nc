@@ -4,7 +4,7 @@
 (This file generated from the board:)
 (.../Dropbox/CAM/eurorack/808sn/808sn.brd)
 (Current profile is .../pcbgcode.repo/profiles/mach.pp  )
-(This file generated 1/10/15 7:29 PM)
+(This file generated 1/10/15 7:38 PM)
 (Settings from pcb-machine.h)
 (spindle on time = 0.0000)
 (spindle speed = 20000.0000)
