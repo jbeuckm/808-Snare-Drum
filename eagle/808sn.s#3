@@ -20578,7 +20578,7 @@ Digikey #P9821BK-ND</description>
 <part name="C53" library="TR808clone" deviceset="C-EU" device="3.5MM_PITCH" value="1n"/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
-<part name="R203" library="TR808clone" deviceset="R-EU_" device="0309/10" value="22K"/>
+<part name="R203" library="TR808clone" deviceset="R-EU_" device="0207/7" value="22K"/>
 <part name="Q48" library="808_lt" deviceset="2N3904" device=""/>
 <part name="C54" library="TR808clone" deviceset="C-EU" device="3.5MM_PITCH" value="2n7"/>
 <part name="R188" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="100"/>
@@ -20604,7 +20604,7 @@ Digikey #P9821BK-ND</description>
 <part name="P+7" library="supply1" deviceset="+12V" device=""/>
 <part name="IC1" library="linear" deviceset="TL072" device="P"/>
 <part name="C4" library="TR808clone" deviceset="C-EU" device="025-025X050" value=".1uF"/>
-<part name="C6" library="TR808clone" deviceset="C-EU" device="025-025X050" value=".1uF"/>
+<part name="C6" library="TR808clone" deviceset="C-EU" device="050-025X075" value=".1uF"/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="R130" library="TR808clone" deviceset="R-EU_" device="0207/7" value="1M"/>
 <part name="R131" library="TR808clone" deviceset="R-EU_" device="0207/7" value="100K"/>

@@ -20529,7 +20529,7 @@ Digikey #P9821BK-ND</description>
 <part name="R180" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="22K"/>
 <part name="R181" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="10K"/>
 <part name="R182" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="10K"/>
-<part name="R183" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="4K7"/>
+<part name="R183" library="TR808clone" deviceset="R-EU_" device="0207/2V" value="4K7"/>
 <part name="Q45" library="808_lt" deviceset="2N3904" device=""/>
 <part name="Q46" library="808_lt" deviceset="2N3906" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
@@ -20537,7 +20537,7 @@ Digikey #P9821BK-ND</description>
 <part name="C58" library="TR808clone" deviceset="C-EU" device="050-024X044" value="56n"/>
 <part name="C59" library="TR808clone" deviceset="C-EU" device="050-024X044" value="27n"/>
 <part name="C57" library="TR808clone" deviceset="C-EU" device="4MM_PITCH" value="6.8n"/>
-<part name="R189" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="100K"/>
+<part name="R189" library="TR808clone" deviceset="R-EU_" device="0207/2V" value="100K"/>
 <part name="R196" library="TR808clone" deviceset="R-EU_" device="0207/7" value="680"/>
 <part name="R197" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="820K"/>
 <part name="R190" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="680"/>
@@ -20557,7 +20557,7 @@ Digikey #P9821BK-ND</description>
 <part name="SNAPPY" library="pot" deviceset="3RP/1610N" device="" value="10K(B)"/>
 <part name="R199" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="1K"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="R186" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="33K"/>
+<part name="R186" library="TR808clone" deviceset="R-EU_" device="0309/12" value="33K"/>
 <part name="Q47" library="808_lt" deviceset="2N3904" device=""/>
 <part name="R187" library="TR808clone" deviceset="R-EU_" device="0207/7" value="330"/>
 <part name="R193" library="TR808clone" deviceset="R-EU_" device="0207/7" value="100"/>

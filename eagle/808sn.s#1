@@ -20557,7 +20557,7 @@ Digikey #P9821BK-ND</description>
 <part name="SNAPPY" library="pot" deviceset="3RP/1610N" device="" value="10K(B)"/>
 <part name="R199" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="1K"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="R186" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="33K"/>
+<part name="R186" library="TR808clone" deviceset="R-EU_" device="0309/12" value="33K"/>
 <part name="Q47" library="808_lt" deviceset="2N3904" device=""/>
 <part name="R187" library="TR808clone" deviceset="R-EU_" device="0207/7" value="330"/>
 <part name="R193" library="TR808clone" deviceset="R-EU_" device="0207/7" value="100"/>
@@ -20586,7 +20586,7 @@ Digikey #P9821BK-ND</description>
 <part name="C56" library="TR808clone" deviceset="C-EU" device="4MM_PITCH" value="22n"/>
 <part name="GND58" library="supply1" deviceset="GND" device=""/>
 <part name="C69" library="TR808clone" deviceset="C-EU" device="075-042X103" value="10n"/>
-<part name="R204" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="100K"/>
+<part name="R204" library="TR808clone" deviceset="R-EU_" device="0207/7" value="100K"/>
 <part name="R205" library="TR808clone" deviceset="R-EU_" device="0207/7" value="27K"/>
 <part name="R206" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="47K"/>
 <part name="R210" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="470K"/>
