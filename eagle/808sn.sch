@@ -20532,43 +20532,33 @@ Digikey #P9821BK-ND</description>
 <part name="R183" library="TR808clone" deviceset="R-EU_" device="0207/2V" value="4K7"/>
 <part name="Q45" library="808_lt" deviceset="2N3904" device=""/>
 <part name="Q46" library="808_lt" deviceset="2N3906" device=""/>
-<part name="GND3" library="supply1" deviceset="GND" device=""/>
-<part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="C58" library="TR808clone" deviceset="C-EU" device="050-024X044" value="56n"/>
 <part name="C59" library="TR808clone" deviceset="C-EU" device="050-024X044" value="27n"/>
 <part name="C57" library="TR808clone" deviceset="C-EU" device="4MM_PITCH" value="6.8n"/>
-<part name="R189" library="TR808clone" deviceset="R-EU_" device="0207/2V" value="100K"/>
+<part name="R189" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="100K"/>
 <part name="R196" library="TR808clone" deviceset="R-EU_" device="0207/7" value="680"/>
 <part name="R197" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="820K"/>
 <part name="R190" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="680"/>
-<part name="GND5" library="supply1" deviceset="GND" device=""/>
-<part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="C60" library="TR808clone" deviceset="C-EU" device="4MM_PITCH" value="6.8n"/>
 <part name="C61" library="TR808clone" deviceset="C-EU" device="4MM_PITCH" value="15n"/>
 <part name="R195" library="TR808clone" deviceset="R-EU_" device="0207/7" value="2K2"/>
 <part name="R198" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="1M"/>
-<part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="R192" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="220"/>
 <part name="R191" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="10K"/>
-<part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="C63" library="TR808clone" deviceset="C-EU" device="050-024X044" value="47n"/>
 <part name="C65" library="TR808clone" deviceset="C-EU" device="050-024X044" value="47n"/>
 <part name="R200" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="0R"/>
 <part name="SNAPPY" library="pot" deviceset="3RP/1610N" device="" value="10K(B)"/>
 <part name="R199" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="1K"/>
-<part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="R186" library="TR808clone" deviceset="R-EU_" device="0309/12" value="33K"/>
 <part name="Q47" library="808_lt" deviceset="2N3904" device=""/>
 <part name="R187" library="TR808clone" deviceset="R-EU_" device="0207/7" value="330"/>
 <part name="R193" library="TR808clone" deviceset="R-EU_" device="0207/7" value="100"/>
-<part name="R184" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="15K"/>
-<part name="R185" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="15K"/>
+<part name="R184" library="TR808clone" deviceset="R-EU_" device="0207/7" value="15K"/>
+<part name="R185" library="TR808clone" deviceset="R-EU_" device="0207/7" value="15K"/>
 <part name="C52" library="TR808clone" deviceset="C-EU" device="050-045X075" value="100n"/>
 <part name="C55" library="TR808clone" deviceset="CPOL-EU" device="E2-5" value="47/16"/>
-<part name="C51" library="TR808clone" deviceset="CPOL-EU" device="E2-5" value="0.47/50"/>
-<part name="GND10" library="supply1" deviceset="GND" device=""/>
-<part name="GND11" library="supply1" deviceset="GND" device=""/>
-<part name="GND12" library="supply1" deviceset="GND" device=""/>
+<part name="C51" library="TR808clone" deviceset="CPOL-EU" device="E3.5-8" value="0.47/50"/>
 <part name="C66" library="TR808clone" deviceset="C-EU" device="3.5MM_PITCH" value="1.8n"/>
 <part name="C67" library="TR808clone" deviceset="C-EU" device="3.5MM_PITCH" value="1.8n"/>
 <part name="R201" library="TR808clone" deviceset="R-EU_" device="0207/7" value="22K"/>
@@ -20576,15 +20566,12 @@ Digikey #P9821BK-ND</description>
 <part name="Q49" library="808_lt" deviceset="2N3904" device=""/>
 <part name="D54" library="TR808clone" deviceset="1N4148" device="DO35-7"/>
 <part name="C53" library="TR808clone" deviceset="C-EU" device="3.5MM_PITCH" value="1n"/>
-<part name="GND13" library="supply1" deviceset="GND" device=""/>
-<part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="R203" library="TR808clone" deviceset="R-EU_" device="0207/7" value="22K"/>
 <part name="Q48" library="808_lt" deviceset="2N3904" device=""/>
 <part name="C54" library="TR808clone" deviceset="C-EU" device="3.5MM_PITCH" value="2n7"/>
 <part name="R188" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="100"/>
 <part name="R194" library="TR808clone" deviceset="R-EU_" device="0207/7" value="2.2M"/>
 <part name="C56" library="TR808clone" deviceset="C-EU" device="4MM_PITCH" value="22n"/>
-<part name="GND58" library="supply1" deviceset="GND" device=""/>
 <part name="C69" library="TR808clone" deviceset="C-EU" device="075-042X103" value="10n"/>
 <part name="R204" library="TR808clone" deviceset="R-EU_" device="0207/7" value="100K"/>
 <part name="R205" library="TR808clone" deviceset="R-EU_" device="0207/7" value="27K"/>
@@ -20593,7 +20580,6 @@ Digikey #P9821BK-ND</description>
 <part name="C70" library="TR808clone" deviceset="C-EU" device="025-025X050" value="220p"/>
 <part name="LEVEL" library="pot" deviceset="3RP/1610N" device="" value="100K(A)"/>
 <part name="C68" library="TR808clone" deviceset="CPOL-EU" device="E2-5" value="33/6.3"/>
-<part name="GND59" library="supply1" deviceset="GND" device=""/>
 <part name="R207" library="TR808clone" deviceset="R-EU_" device="0309/10" value="1K"/>
 <part name="TONE" library="pot" deviceset="3RP/1610N" device="" value="100k"/>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
@@ -20605,16 +20591,11 @@ Digikey #P9821BK-ND</description>
 <part name="IC1" library="linear" deviceset="TL072" device="P"/>
 <part name="C4" library="TR808clone" deviceset="C-EU" device="025-025X050" value=".1uF"/>
 <part name="C6" library="TR808clone" deviceset="C-EU" device="050-025X075" value=".1uF"/>
-<part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="R130" library="TR808clone" deviceset="R-EU_" device="0207/7" value="1M"/>
 <part name="R131" library="TR808clone" deviceset="R-EU_" device="0207/7" value="100K"/>
-<part name="V303" library="supply1" deviceset="GND" device=""/>
-<part name="V304" library="supply1" deviceset="GND" device=""/>
-<part name="V305" library="supply1" deviceset="GND" device=""/>
 <part name="C29" library="TR808clone" deviceset="CPOL-EU" device="E2.5-5" value="47/16"/>
-<part name="V306" library="supply1" deviceset="GND" device=""/>
 <part name="R124" library="TR808clone" deviceset="R-EU_" device="0207/7" value="100R"/>
-<part name="C31" library="TR808clone" deviceset="CPOL-EU" device="E2.5-5" value="1/50"/>
+<part name="C31" library="TR808clone" deviceset="CPOL-EU" device="E3.5-8" value="1/50"/>
 <part name="R128" library="TR808clone" deviceset="R-EU_" device="0207/7" value="1M"/>
 <part name="TM4" library="TR808clone" deviceset="TRIM_EU-" device="B64Y" value="22KB"/>
 <part name="IC3" library="linear" deviceset="TL072" device="P"/>
@@ -20626,15 +20607,11 @@ Digikey #P9821BK-ND</description>
 <part name="P-1" library="supply1" deviceset="-12V" device=""/>
 <part name="C2" library="TR808clone" deviceset="C-EU" device="025-025X050" value=".1uF"/>
 <part name="C3" library="TR808clone" deviceset="C-EU" device="025-025X050" value=".1uF"/>
-<part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="130MV_RMS_TP" library="con-molex" deviceset="22-23-2021" device=""/>
-<part name="V1" library="supply1" deviceset="GND" device=""/>
 <part name="ACCENT" library="solpad" deviceset="LSP10" device=""/>
 <part name="GATE" library="solpad" deviceset="LSP10" device=""/>
 <part name="OUTPUT" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
-<part name="V3" library="supply1" deviceset="GND" device=""/>
 <part name="OUTPUT_NORM" library="con-molex" deviceset="22-23-2021" device=""/>
-<part name="V4" library="supply1" deviceset="GND" device=""/>
 <part name="PWR1" library="eurorack" deviceset="POWER" device=""/>
 <part name="U$1" library="adafruit" deviceset="FB" device=""/>
 <part name="U$2" library="adafruit" deviceset="FB" device=""/>
@@ -20642,7 +20619,30 @@ Digikey #P9821BK-ND</description>
 <part name="C7" library="rcl" deviceset="CPOL-US" device="B45181A" value="10u"/>
 <part name="P+6" library="supply1" deviceset="+12V" device=""/>
 <part name="P-2" library="supply1" deviceset="-12V" device=""/>
-<part name="GND1" library="supply1" deviceset="GND" device=""/>
+<part name="V2" library="supply1" deviceset="GND" device=""/>
+<part name="GND9" library="supply1" deviceset="GND" device=""/>
+<part name="GND11" library="supply1" deviceset="GND" device=""/>
+<part name="V1" library="supply1" deviceset="GND" device=""/>
+<part name="V3" library="supply1" deviceset="GND" device=""/>
+<part name="V4" library="supply1" deviceset="GND" device=""/>
+<part name="V5" library="supply1" deviceset="GND" device=""/>
+<part name="V6" library="supply1" deviceset="GND" device=""/>
+<part name="V7" library="supply1" deviceset="GND" device=""/>
+<part name="V8" library="supply1" deviceset="GND" device=""/>
+<part name="V9" library="supply1" deviceset="GND" device=""/>
+<part name="V10" library="supply1" deviceset="GND" device=""/>
+<part name="V11" library="supply1" deviceset="GND" device=""/>
+<part name="V12" library="supply1" deviceset="GND" device=""/>
+<part name="V13" library="supply1" deviceset="GND" device=""/>
+<part name="V14" library="supply1" deviceset="GND" device=""/>
+<part name="V15" library="supply1" deviceset="GND" device=""/>
+<part name="V16" library="supply1" deviceset="GND" device=""/>
+<part name="V17" library="supply1" deviceset="GND" device=""/>
+<part name="V19" library="supply1" deviceset="GND" device=""/>
+<part name="V20" library="supply1" deviceset="GND" device=""/>
+<part name="V18" library="supply1" deviceset="GND" device=""/>
+<part name="V21" library="supply1" deviceset="GND" device=""/>
+<part name="V22" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -20661,8 +20661,6 @@ Digikey #P9821BK-ND</description>
 <instance part="Q46" gate="G$1" x="15.24" y="81.28" smashed="yes">
 <attribute name="NAME" x="17.78" y="81.28" size="1.778" layer="95"/>
 </instance>
-<instance part="GND3" gate="1" x="2.54" y="48.26"/>
-<instance part="GND4" gate="1" x="10.16" y="48.26"/>
 <instance part="C58" gate="G$1" x="40.64" y="91.44" smashed="yes" rot="R90">
 <attribute name="NAME" x="42.799" y="95.504" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="42.799" y="87.884" size="1.778" layer="96" rot="R180"/>
@@ -20679,8 +20677,6 @@ Digikey #P9821BK-ND</description>
 <instance part="R196" gate="G$1" x="48.26" y="86.36" rot="R90"/>
 <instance part="R197" gate="G$1" x="48.26" y="99.06"/>
 <instance part="R190" gate="G$1" x="38.1" y="55.88" rot="R90"/>
-<instance part="GND5" gate="1" x="38.1" y="48.26"/>
-<instance part="GND6" gate="1" x="48.26" y="78.74"/>
 <instance part="C60" gate="G$1" x="76.2" y="96.52" smashed="yes" rot="R90">
 <attribute name="NAME" x="78.359" y="100.584" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="78.359" y="92.964" size="1.778" layer="96" rot="R180"/>
@@ -20691,10 +20687,8 @@ Digikey #P9821BK-ND</description>
 </instance>
 <instance part="R195" gate="G$1" x="83.82" y="91.44" rot="R270"/>
 <instance part="R198" gate="G$1" x="83.82" y="104.14"/>
-<instance part="GND7" gate="1" x="83.82" y="81.28"/>
 <instance part="R192" gate="G$1" x="66.04" y="55.88" rot="R90"/>
 <instance part="R191" gate="G$1" x="66.04" y="81.28" rot="R90"/>
-<instance part="GND8" gate="1" x="66.04" y="48.26"/>
 <instance part="C63" gate="G$1" x="58.42" y="63.5"/>
 <instance part="C65" gate="G$1" x="93.98" y="55.88"/>
 <instance part="R200" gate="G$1" x="93.98" y="63.5" rot="R90"/>
@@ -20703,7 +20697,6 @@ Digikey #P9821BK-ND</description>
 <attribute name="VALUE" x="12.7" y="30.48" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="R199" gate="G$1" x="17.78" y="17.78" rot="R90"/>
-<instance part="GND9" gate="1" x="17.78" y="5.08"/>
 <instance part="R186" gate="G$1" x="30.48" y="30.48"/>
 <instance part="Q47" gate="G1" x="38.1" y="30.48" smashed="yes">
 <attribute name="NAME" x="35.56" y="34.29" size="1.778" layer="95"/>
@@ -20721,9 +20714,6 @@ Digikey #P9821BK-ND</description>
 <attribute name="NAME" x="34.163" y="13.1826" size="1.778" layer="95"/>
 <attribute name="VALUE" x="31.623" y="9.3726" size="1.778" layer="96"/>
 </instance>
-<instance part="GND10" gate="1" x="53.34" y="25.4"/>
-<instance part="GND11" gate="1" x="40.64" y="5.08"/>
-<instance part="GND12" gate="1" x="53.34" y="5.08"/>
 <instance part="C66" gate="G$1" x="73.66" y="20.32" smashed="yes" rot="R90">
 <attribute name="NAME" x="74.549" y="24.384" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="74.549" y="16.764" size="1.778" layer="96" rot="R180"/>
@@ -20741,8 +20731,6 @@ Digikey #P9821BK-ND</description>
 <attribute name="NAME" x="60.1726" y="1.27" size="1.778" layer="95"/>
 </instance>
 <instance part="C53" gate="G$1" x="71.12" y="5.08"/>
-<instance part="GND13" gate="1" x="71.12" y="-2.54"/>
-<instance part="GND14" gate="1" x="88.9" y="5.08"/>
 <instance part="R203" gate="G$1" x="99.06" y="-2.54" rot="R90"/>
 <instance part="Q48" gate="G1" x="73.66" y="-12.7" smashed="yes" rot="MR0">
 <attribute name="NAME" x="71.12" y="-12.7" size="1.778" layer="95" rot="MR0"/>
@@ -20757,7 +20745,6 @@ Digikey #P9821BK-ND</description>
 <attribute name="NAME" x="88.519" y="-16.256" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="94.869" y="-16.256" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="GND58" gate="1" x="60.96" y="-22.86"/>
 <instance part="C69" gate="G$1" x="106.68" y="10.16" smashed="yes" rot="R90">
 <attribute name="NAME" x="106.299" y="14.224" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="105.029" y="7.874" size="1.778" layer="96" rot="R180"/>
@@ -20780,7 +20767,6 @@ Digikey #P9821BK-ND</description>
 <attribute name="NAME" x="128.7526" y="80.137" size="1.778" layer="95"/>
 <attribute name="VALUE" x="128.7526" y="76.327" size="1.778" layer="96"/>
 </instance>
-<instance part="GND59" gate="1" x="119.38" y="20.32"/>
 <instance part="R207" gate="G$1" x="137.16" y="81.28" rot="R90"/>
 <instance part="TONE" gate="G$1" x="93.98" y="45.72"/>
 <instance part="P+3" gate="1" x="66.04" y="38.1"/>
@@ -20800,14 +20786,9 @@ Digikey #P9821BK-ND</description>
 <attribute name="NAME" x="115.189" y="99.314" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="127.889" y="99.314" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="GND15" gate="1" x="104.14" y="101.6"/>
 <instance part="R130" gate="G$1" x="190.5" y="43.18" rot="R180"/>
 <instance part="R131" gate="G$1" x="180.34" y="7.62" rot="R270"/>
-<instance part="V303" gate="1" x="162.56" y="-2.54"/>
-<instance part="V304" gate="1" x="180.34" y="-2.54"/>
-<instance part="V305" gate="1" x="165.1" y="30.48"/>
 <instance part="C29" gate="G$1" x="147.32" y="12.7"/>
-<instance part="V306" gate="1" x="147.32" y="-2.54"/>
 <instance part="R124" gate="G$1" x="147.32" y="27.94" rot="R90"/>
 <instance part="C31" gate="G$1" x="172.72" y="17.78" rot="R90"/>
 <instance part="R128" gate="G$1" x="152.4" y="22.86" rot="R180"/>
@@ -20831,18 +20812,14 @@ Digikey #P9821BK-ND</description>
 <attribute name="NAME" x="158.369" y="61.214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="171.069" y="61.214" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="GND2" gate="1" x="147.32" y="63.5"/>
 <instance part="IC3" gate="P" x="167.64" y="66.04"/>
 <instance part="130MV_RMS_TP" gate="-1" x="121.92" y="0" rot="MR180"/>
 <instance part="130MV_RMS_TP" gate="-2" x="121.92" y="2.54" rot="MR180"/>
-<instance part="V1" gate="1" x="111.76" y="-2.54" rot="MR0"/>
 <instance part="ACCENT" gate="1" x="10.16" y="109.22"/>
 <instance part="GATE" gate="1" x="2.54" y="104.14"/>
 <instance part="OUTPUT" gate="G$1" x="187.96" y="91.44" rot="R180"/>
-<instance part="V3" gate="1" x="180.34" y="81.28" rot="MR0"/>
 <instance part="OUTPUT_NORM" gate="-1" x="182.88" y="104.14" rot="MR180"/>
 <instance part="OUTPUT_NORM" gate="-2" x="182.88" y="106.68" rot="MR180"/>
-<instance part="V4" gate="1" x="172.72" y="101.6" rot="MR0"/>
 <instance part="PWR1" gate="G$1" x="-48.26" y="104.14"/>
 <instance part="U$1" gate="G$1" x="-27.94" y="109.22" rot="R90"/>
 <instance part="U$2" gate="G$1" x="-27.94" y="104.14" rot="R90"/>
@@ -20850,7 +20827,30 @@ Digikey #P9821BK-ND</description>
 <instance part="C7" gate="G$1" x="-15.24" y="101.6"/>
 <instance part="P+6" gate="1" x="-15.24" y="124.46"/>
 <instance part="P-2" gate="1" x="-15.24" y="88.9"/>
-<instance part="GND1" gate="1" x="-5.08" y="101.6"/>
+<instance part="V2" gate="1" x="-5.08" y="101.6" rot="MR0"/>
+<instance part="GND9" gate="1" x="17.78" y="2.54"/>
+<instance part="GND11" gate="1" x="40.64" y="2.54"/>
+<instance part="V1" gate="1" x="2.54" y="48.26" rot="MR0"/>
+<instance part="V3" gate="1" x="10.16" y="48.26" rot="MR0"/>
+<instance part="V4" gate="1" x="38.1" y="48.26" rot="MR0"/>
+<instance part="V5" gate="1" x="66.04" y="48.26" rot="MR0"/>
+<instance part="V6" gate="1" x="48.26" y="78.74" rot="MR0"/>
+<instance part="V7" gate="1" x="83.82" y="81.28" rot="MR0"/>
+<instance part="V8" gate="1" x="106.68" y="101.6" rot="MR0"/>
+<instance part="V9" gate="1" x="172.72" y="101.6" rot="MR0"/>
+<instance part="V10" gate="1" x="180.34" y="81.28" rot="MR0"/>
+<instance part="V11" gate="1" x="147.32" y="63.5" rot="MR0"/>
+<instance part="V12" gate="1" x="165.1" y="30.48" rot="MR0"/>
+<instance part="V13" gate="1" x="180.34" y="-2.54" rot="MR0"/>
+<instance part="V14" gate="1" x="162.56" y="-2.54" rot="MR0"/>
+<instance part="V15" gate="1" x="147.32" y="-2.54" rot="MR0"/>
+<instance part="V16" gate="1" x="119.38" y="20.32" rot="MR0"/>
+<instance part="V17" gate="1" x="88.9" y="5.08" rot="MR0"/>
+<instance part="V19" gate="1" x="53.34" y="2.54" rot="MR0"/>
+<instance part="V20" gate="1" x="53.34" y="25.4" rot="MR0"/>
+<instance part="V18" gate="1" x="111.76" y="-2.54" rot="MR0"/>
+<instance part="V21" gate="1" x="60.96" y="-22.86" rot="MR0"/>
+<instance part="V22" gate="1" x="71.12" y="-2.54" rot="MR0"/>
 </instances>
 <busses>
 </busses>
@@ -20901,67 +20901,52 @@ Digikey #P9821BK-ND</description>
 </net>
 <net name="GND" class="1">
 <segment>
-<pinref part="R181" gate="G$1" pin="1"/>
-<pinref part="GND3" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="GND4" gate="1" pin="GND"/>
-<pinref part="Q45" gate="G1" pin="E"/>
-<wire x1="10.16" y1="50.8" x2="10.16" y2="58.42" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="R190" gate="G$1" pin="1"/>
-<pinref part="GND5" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="R196" gate="G$1" pin="1"/>
-<pinref part="GND6" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="R195" gate="G$1" pin="2"/>
-<pinref part="GND7" gate="1" pin="GND"/>
-<wire x1="83.82" y1="83.82" x2="83.82" y2="86.36" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="R192" gate="G$1" pin="1"/>
-<pinref part="GND8" gate="1" pin="GND"/>
+<pinref part="PWR1" gate="G$1" pin="GND"/>
+<wire x1="-38.1" y1="106.68" x2="-15.24" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="-15.24" y1="106.68" x2="-5.08" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="-5.08" y1="106.68" x2="-5.08" y2="104.14" width="0.1524" layer="91"/>
+<pinref part="C5" gate="G$1" pin="-"/>
+<wire x1="-15.24" y1="109.22" x2="-15.24" y2="106.68" width="0.1524" layer="91"/>
+<junction x="-15.24" y="106.68"/>
+<pinref part="C7" gate="G$1" pin="+"/>
+<wire x1="-15.24" y1="104.14" x2="-15.24" y2="106.68" width="0.1524" layer="91"/>
+<pinref part="V2" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="R199" gate="G$1" pin="1"/>
+<wire x1="17.78" y1="5.08" x2="17.78" y2="12.7" width="0.1524" layer="91"/>
 <pinref part="GND9" gate="1" pin="GND"/>
-<wire x1="17.78" y1="7.62" x2="17.78" y2="12.7" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="C52" gate="G$1" pin="2"/>
-<pinref part="GND12" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C51" gate="G$1" pin="-"/>
 <pinref part="GND11" gate="1" pin="GND"/>
+<wire x1="40.64" y1="5.08" x2="40.64" y2="7.62" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="C55" gate="G$1" pin="-"/>
-<pinref part="GND10" gate="1" pin="GND"/>
+<pinref part="R181" gate="G$1" pin="1"/>
+<pinref part="V1" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C53" gate="G$1" pin="2"/>
-<pinref part="GND13" gate="1" pin="GND"/>
+<pinref part="Q45" gate="G1" pin="E"/>
+<wire x1="10.16" y1="50.8" x2="10.16" y2="58.42" width="0.1524" layer="91"/>
+<pinref part="V3" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="R202" gate="G$1" pin="1"/>
-<pinref part="GND14" gate="1" pin="GND"/>
+<pinref part="R190" gate="G$1" pin="1"/>
+<pinref part="V4" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C54" gate="G$1" pin="2"/>
-<pinref part="R188" gate="G$1" pin="1"/>
-<pinref part="GND58" gate="1" pin="GND"/>
-<wire x1="60.96" y1="-20.32" x2="60.96" y2="-17.78" width="0.1524" layer="91"/>
-<junction x="60.96" y="-17.78"/>
+<pinref part="R192" gate="G$1" pin="1"/>
+<pinref part="V5" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="R206" gate="G$1" pin="1"/>
-<pinref part="GND59" gate="1" pin="GND"/>
-<wire x1="119.38" y1="22.86" x2="119.38" y2="25.4" width="0.1524" layer="91"/>
+<pinref part="R196" gate="G$1" pin="1"/>
+<pinref part="V6" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="R195" gate="G$1" pin="2"/>
+<wire x1="83.82" y1="83.82" x2="83.82" y2="86.36" width="0.1524" layer="91"/>
+<pinref part="V7" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C6" gate="G$1" pin="1"/>
@@ -20970,29 +20955,20 @@ Digikey #P9821BK-ND</description>
 <pinref part="C4" gate="G$1" pin="1"/>
 <wire x1="114.3" y1="104.14" x2="114.3" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="114.3" y1="111.76" x2="116.84" y2="111.76" width="0.1524" layer="91"/>
-<pinref part="GND15" gate="1" pin="GND"/>
-<wire x1="104.14" y1="104.14" x2="114.3" y2="104.14" width="0.1524" layer="91"/>
 <junction x="114.3" y="104.14"/>
+<wire x1="106.68" y1="104.14" x2="114.3" y2="104.14" width="0.1524" layer="91"/>
+<pinref part="V8" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="R131" gate="G$1" pin="2"/>
-<pinref part="V304" gate="1" pin="GND"/>
-<wire x1="180.34" y1="0" x2="180.34" y2="2.54" width="0.1524" layer="91"/>
+<pinref part="OUTPUT_NORM" gate="-2" pin="S"/>
+<wire x1="180.34" y1="106.68" x2="172.72" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="172.72" y1="106.68" x2="172.72" y2="104.14" width="0.1524" layer="91"/>
+<pinref part="V9" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="V305" gate="1" pin="GND"/>
-<wire x1="165.1" y1="33.02" x2="165.1" y2="38.1" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="-"/>
-</segment>
-<segment>
-<pinref part="C29" gate="G$1" pin="-"/>
-<pinref part="V306" gate="1" pin="GND"/>
-<wire x1="147.32" y1="0" x2="147.32" y2="7.62" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="V303" gate="1" pin="GND"/>
-<wire x1="162.56" y1="0" x2="162.56" y2="12.7" width="0.1524" layer="91"/>
-<pinref part="Q1" gate="G1" pin="B"/>
+<pinref part="OUTPUT" gate="G$1" pin="RING"/>
+<wire x1="180.34" y1="83.82" x2="180.34" y2="88.9" width="0.1524" layer="91"/>
+<pinref part="V10" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C3" gate="G$1" pin="1"/>
@@ -21001,26 +20977,64 @@ Digikey #P9821BK-ND</description>
 <pinref part="C2" gate="G$1" pin="1"/>
 <wire x1="157.48" y1="66.04" x2="157.48" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="157.48" y1="73.66" x2="160.02" y2="73.66" width="0.1524" layer="91"/>
-<pinref part="GND2" gate="1" pin="GND"/>
 <wire x1="147.32" y1="66.04" x2="157.48" y2="66.04" width="0.1524" layer="91"/>
 <junction x="157.48" y="66.04"/>
+<pinref part="V11" gate="1" pin="GND"/>
+</segment>
+<segment>
+<wire x1="165.1" y1="33.02" x2="165.1" y2="38.1" width="0.1524" layer="91"/>
+<pinref part="C1" gate="G$1" pin="-"/>
+<pinref part="V12" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="R131" gate="G$1" pin="2"/>
+<wire x1="180.34" y1="0" x2="180.34" y2="2.54" width="0.1524" layer="91"/>
+<pinref part="V13" gate="1" pin="GND"/>
+</segment>
+<segment>
+<wire x1="162.56" y1="0" x2="162.56" y2="12.7" width="0.1524" layer="91"/>
+<pinref part="Q1" gate="G1" pin="B"/>
+<pinref part="V14" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="C29" gate="G$1" pin="-"/>
+<wire x1="147.32" y1="0" x2="147.32" y2="7.62" width="0.1524" layer="91"/>
+<pinref part="V15" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="R206" gate="G$1" pin="1"/>
+<wire x1="119.38" y1="22.86" x2="119.38" y2="25.4" width="0.1524" layer="91"/>
+<pinref part="V16" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="R202" gate="G$1" pin="1"/>
+<pinref part="V17" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="C52" gate="G$1" pin="2"/>
+<wire x1="53.34" y1="5.08" x2="53.34" y2="7.62" width="0.1524" layer="91"/>
+<pinref part="V19" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="C55" gate="G$1" pin="-"/>
+<pinref part="V20" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="130MV_RMS_TP" gate="-2" pin="S"/>
-<pinref part="V1" gate="1" pin="GND"/>
 <wire x1="119.38" y1="2.54" x2="111.76" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="2.54" x2="111.76" y2="0" width="0.1524" layer="91"/>
+<pinref part="V18" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="OUTPUT" gate="G$1" pin="RING"/>
-<pinref part="V3" gate="1" pin="GND"/>
-<wire x1="180.34" y1="83.82" x2="180.34" y2="88.9" width="0.1524" layer="91"/>
+<pinref part="C54" gate="G$1" pin="2"/>
+<pinref part="R188" gate="G$1" pin="1"/>
+<wire x1="60.96" y1="-20.32" x2="60.96" y2="-17.78" width="0.1524" layer="91"/>
+<junction x="60.96" y="-17.78"/>
+<pinref part="V21" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="OUTPUT_NORM" gate="-2" pin="S"/>
-<pinref part="V4" gate="1" pin="GND"/>
-<wire x1="180.34" y1="106.68" x2="172.72" y2="106.68" width="0.1524" layer="91"/>
-<wire x1="172.72" y1="106.68" x2="172.72" y2="104.14" width="0.1524" layer="91"/>
+<pinref part="C53" gate="G$1" pin="2"/>
+<pinref part="V22" gate="1" pin="GND"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -21203,18 +21217,6 @@ Digikey #P9821BK-ND</description>
 <wire x1="40.64" y1="15.24" x2="40.64" y2="20.32" width="0.1524" layer="91"/>
 <junction x="40.64" y="20.32"/>
 </segment>
-<segment>
-<pinref part="PWR1" gate="G$1" pin="GND"/>
-<pinref part="GND1" gate="1" pin="GND"/>
-<wire x1="-38.1" y1="106.68" x2="-15.24" y2="106.68" width="0.1524" layer="91"/>
-<wire x1="-15.24" y1="106.68" x2="-5.08" y2="106.68" width="0.1524" layer="91"/>
-<wire x1="-5.08" y1="106.68" x2="-5.08" y2="104.14" width="0.1524" layer="91"/>
-<pinref part="C5" gate="G$1" pin="-"/>
-<wire x1="-15.24" y1="109.22" x2="-15.24" y2="106.68" width="0.1524" layer="91"/>
-<junction x="-15.24" y="106.68"/>
-<pinref part="C7" gate="G$1" pin="+"/>
-<wire x1="-15.24" y1="104.14" x2="-15.24" y2="106.68" width="0.1524" layer="91"/>
-</segment>
 </net>
 <net name="N$27" class="0">
 <segment>
@@ -21370,13 +21372,15 @@ Digikey #P9821BK-ND</description>
 <net name="SD" class="0">
 <segment>
 <pinref part="R180" gate="G$1" pin="2"/>
-<wire x1="2.54" y1="78.74" x2="2.54" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="2.54" y1="78.74" x2="2.54" y2="83.82" width="0.1524" layer="91"/>
 <label x="2.54" y="85.09" size="1.778" layer="95" rot="R90"/>
 <pinref part="GATE" gate="1" pin="MP"/>
 <pinref part="PWR1" gate="G$1" pin="GATE"/>
-<wire x1="2.54" y1="96.52" x2="2.54" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="-38.1" y1="96.52" x2="2.54" y2="96.52" width="0.1524" layer="91"/>
-<junction x="2.54" y="96.52"/>
+<wire x1="2.54" y1="83.82" x2="2.54" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="-38.1" y1="96.52" x2="-25.4" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="-25.4" y1="96.52" x2="-25.4" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="-25.4" y1="83.82" x2="2.54" y2="83.82" width="0.1524" layer="91"/>
+<junction x="2.54" y="83.82"/>
 </segment>
 </net>
 <net name="N$160" class="0">
